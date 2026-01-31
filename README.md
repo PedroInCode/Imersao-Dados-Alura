@@ -1,26 +1,28 @@
-# Imersão Dados com Python 📊🐍
+<div align="center">
 
-Este repositório foi criado para documentar minha jornada na Imersão Dados. Aqui, utilizo ferramentas de Ciência de Dados para analisar conjuntos de dados reais, transformando dados brutos em insights visuais.
+# 📊 Imersão Dados com Python - Alura
 
-## 🛠️ Tecnologias e Bibliotecas
-- **Python**: Linguagem base.
-- **Pandas**: Biblioteca principal para manipulação e limpeza de dados.
-- **Matplotlib & Seaborn**: Bibliotecas para criação de gráficos e visualização.
-- **Google Colab**: Ambiente de desenvolvimento em nuvem.
-
-## 📁 Estrutura do Projeto
-
-### Aula 01: Primeiros passos com Python e Pandas
-- Leitura de dados CSV.
-- Exploração inicial do dataset.
-- Primeiros filtros e manipulações.
-
-### Aula 02: Limpeza e Preparação de Dados (Data Cleaning)
-Nesta aula, o foco foi preparar o terreno para análises precisas:
-- **Tratamento de Dados**: Identificação e correção de inconsistências.
-- **Renomeação de Colunas**: Padronização para melhor legibilidade do código.
-- **Tipagem**: Garantia de que números sejam tratados como números e textos como textos.
-- **Análise Estatística**: Uso de `.describe()` para entender a média, mediana e desvio padrão dos dados.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit">
+</p>
 
 ---
-*Projeto em constante atualização conforme o progresso das aulas.*
+</div>
+
+## 📌 Sobre o Projeto
+Este repositório contém o desenvolvimento do projeto prático realizado durante a **Imersão Dados com Python** da Alura. O objetivo principal é transformar dados brutos em insights através de análise exploratória e a criação de um **Dashboard Interativo**.
+
+## 🛠️ Tecnologias Utilizadas
+* **Linguagem:** Python
+* **Manipulação de Dados:** Pandas, Numpy
+* **Visualização de Dados:** Plotly Express
+* **Interface do Dashboard:** Streamlit
+* **Ambiente Virtual:** venv
+
+## 🚀 Como executar o projeto localmente
+
+1. **Navegue até a pasta do projeto:**
+   ```powershell
+   cd "Imersão Dados com Python II - Alura/Dashboard Interativo"
